@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 922B-5670
+
+ Directory of C:\Users\Rani\Desktop\GitProjects
+
+08/12/2018  09:48 PM    <DIR>          .
+08/12/2018  09:48 PM    <DIR>          ..
+08/12/2018  09:48 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  85,737,164,800 bytes free
